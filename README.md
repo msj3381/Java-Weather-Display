@@ -1,1 +1,3 @@
-<img src="./image-1.png">
+
+
+<img src="./image-1.png", width=1000>
